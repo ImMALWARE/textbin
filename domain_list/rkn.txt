@@ -1,9 +1,4 @@
 cdninstagram.com
-discord.com
-discord.gg
-discord.media
-discordapp.com
-discordapp.net
 facebook.com
 fbcdn.net
 fbsbx.com
@@ -24,7 +19,6 @@ botnadzor.org
 censorship.no
 censortracker.org
 conversations.im
-discord-attachments-uploads-prd.storage.googleapis.com
 engage.cloudflareclient.com
 ficbook.net
 files.catbox.moe

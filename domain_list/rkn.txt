@@ -52,4 +52,5 @@ zelenka.guru
 znanija.com
 signal.org
 apkmirror.com
+protonvpn.net
 end

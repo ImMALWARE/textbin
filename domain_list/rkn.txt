@@ -3,7 +3,6 @@ facebook.com
 fbcdn.net
 fbsbx.com
 godaddy.com
-googlevideo.com
 imagedelivery.net
 instagram.com
 linkedin.com
@@ -13,7 +12,6 @@ twimg.com
 twitter.com
 wixmp.com
 x.com
-youtube.com
 amnezia.org
 botnadzor.org
 censorship.no
@@ -50,9 +48,6 @@ vector.im
 viber.com
 windscribe.com
 www.patreon.com
-youtu.be
-youtubei.googleapis.com
-yt3.ggpht.com
-yt4.ggpht.com
 zelenka.guru
 znanija.com
+signal.org

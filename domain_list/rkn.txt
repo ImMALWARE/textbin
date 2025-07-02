@@ -53,4 +53,5 @@ znanija.com
 signal.org
 apkmirror.com
 protonvpn.net
+cloudflare-ech.com
 end

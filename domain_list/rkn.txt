@@ -59,4 +59,8 @@ x.com
 zelenka.guru
 znanija.com
 zona.media
+sndcdn.com
+moengage.com
+sb.scorecardresearch.com
+htlbid.com
 end

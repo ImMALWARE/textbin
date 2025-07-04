@@ -55,4 +55,8 @@ xgpuweb.gssv-play-prod.xboxlive.com
 xgpuwebf2p.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
 oaiusercontent.com
+tiktok.com
+tiktokv.com
+tiktokcdn.com
+musical.ly
 end

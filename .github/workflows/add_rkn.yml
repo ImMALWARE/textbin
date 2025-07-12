@@ -36,7 +36,7 @@ jobs:
 
       - name: Merge all lists and convert to comma-separated
         run: |
-          cat yt.lst tw.lst meta.lst news.lst domain_list/rkn.txt | tr -d ' \t' | grep -v '^$' | sort -u | tr '\n' ',' | sed 's/,$//' > > domain_list/rkn_v2rayng.txt
+          cat yt.lst tw.lst meta.lst news.lst domain_list/rkn.txt | tr -d ' \t' | grep -v '^$' | sort -u | tr '\n' ',' | sed 's/,$//' > domain_list/rkn_v2rayng.txt
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -1,0 +1,45 @@
+name: Add domain to rkn.txt
+
+on:
+  workflow_dispatch:
+    inputs:
+      domain:
+        description: 'Domain'
+        required: true
+        type: string
+
+jobs:
+  update_lists:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Add domain to rkn.txt
+        run: |
+          tail -c1 domain_list/rkn.txt | read -r _ || echo >> domain_list/rkn.txt
+          echo "${{ github.event.inputs.domain }}" >> domain_list/rkn.txt
+
+      - name: Sort rkn.txt alphabetically
+        run: |
+          sort -u domain_list/rkn.txt -o domain_list/rkn.txt
+
+      - name: Download external lists
+        run: |
+          curl -sSL https://github.com/itdoginfo/allow-domains/raw/main/Services/youtube.lst -o yt.lst
+          curl -sSL https://github.com/itdoginfo/allow-domains/raw/main/Services/twitter.lst -o tw.lst
+          curl -sSL https://github.com/itdoginfo/allow-domains/raw/main/Services/meta.lst -o meta.lst
+          curl -sSL https://github.com/itdoginfo/allow-domains/raw/main/Categories/news.lst -o news.lst
+          for f in *.lst; do
+            sed -i 's/\r$//' "$f"
+          done
+
+      - name: Merge all lists and convert to comma-separated
+        run: |
+          cat yt.lst tw.lst meta.lst news.lst domain_list/rkn.txt | tr -d ' \t' | grep -v '^$' | sort -u | tr '\n' ',' | sed 's/,$//' > > domain_list/rkn_v2rayng.txt
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Added domain ${{ github.event.inputs.domain }} to rkn.txt"
+          file_pattern: domain_list/rkn.txt domain_list/rkn_v2rayng.txt

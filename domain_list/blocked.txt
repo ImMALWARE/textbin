@@ -19,6 +19,7 @@ dzcdn.net
 edgeservices.bing.com
 elevenlabs.io
 elevenreader.io
+eu-northeast.cloudmatchbeta.nvidiagrid.net
 githubcopilot.com
 grok.com
 httptoolkit.com

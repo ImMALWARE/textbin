@@ -42,7 +42,6 @@ rutracker.org
 sb.scorecardresearch.com
 signal.org
 sndcdn.com
-sotaproject.com
 soundcloud.com
 te-st.org
 torproject.org
@@ -53,3 +52,5 @@ windscribe.com
 wixmp.com
 zelenka.guru
 znanija.com
+tmailor.com
+kemono.su

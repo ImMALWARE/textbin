@@ -1,5 +1,4 @@
 4pda.to
-aisandbox-pa.googleapis.com
 anthropic.com
 api.github.com
 api.imgur.com
@@ -33,7 +32,6 @@ plugins.jetbrains.com
 prod.cloudmatchbeta.nvidiagrid.net
 sora.com
 spotify.com
-stitch.withgoogle.com
 supercell.com
 sydney.bing.com
 tidal.com
@@ -41,7 +39,6 @@ truthsocial.com
 usher.ttvnw.net
 weather.com
 web.archive.org
-webchannel-alkalimakersuite-pa.clients6.google.com
 wikidot.com
 x.ai
 xgpuweb.gssv-play-prod.xboxlive.com

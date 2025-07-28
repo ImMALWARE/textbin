@@ -26,6 +26,7 @@ grok.com
 httptoolkit.com
 notion.so
 o.pki.goog
+oaistatic.com
 oaiusercontent.com
 openai.com
 plugins.jetbrains.com

@@ -8,6 +8,7 @@ chatgpt.com
 clashofclans.com
 clashroyaleapp.com
 claude.ai
+clickup-prod.com
 clickup.com
 copilot.microsoft.com
 datalore.jetbrains.com

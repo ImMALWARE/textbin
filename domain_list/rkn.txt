@@ -15,6 +15,7 @@ freedomhouse.org
 godaddy.com
 google.ua
 imagedelivery.net
+kemono.su
 linkedin.com
 linktr.ee
 lolz.guru
@@ -43,7 +44,9 @@ sb.scorecardresearch.com
 signal.org
 sndcdn.com
 soundcloud.com
+speedtest.net
 te-st.org
+tmailor.com
 torproject.org
 ulta.team
 vector.im
@@ -52,5 +55,3 @@ windscribe.com
 wixmp.com
 zelenka.guru
 znanija.com
-tmailor.com
-kemono.su

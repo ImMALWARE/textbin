@@ -10,6 +10,7 @@ clashofclans.com
 clashroyaleapp.com
 claude.ai
 clickup-attachments.com
+clickup-eu.com
 clickup-prod.com
 clickup.com
 copilot.microsoft.com

@@ -12,6 +12,7 @@ claude.ai
 clickup-attachments.com
 clickup-eu.com
 clickup-prod.com
+clickup-sg.com
 clickup.com
 copilot.microsoft.com
 datalore.jetbrains.com

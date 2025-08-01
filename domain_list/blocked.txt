@@ -18,6 +18,7 @@ copilot.microsoft.com
 datalore.jetbrains.com
 deepl.com
 deezer.com
+dell.com
 developer.nvidia.com
 download.jetbrains.com
 dzcdn.net

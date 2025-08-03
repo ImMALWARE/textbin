@@ -31,6 +31,7 @@ picuki.com
 prnt.sc
 proton.me
 protonmail.com
+protonmail.ch
 protonvpn.com
 protonvpn.net
 psiphon.ca

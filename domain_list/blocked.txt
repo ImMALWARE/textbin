@@ -38,6 +38,7 @@ oaiusercontent.com
 openai.com
 plugins.jetbrains.com
 prod.cloudmatchbeta.nvidiagrid.net
+protonmail.ch
 slack.com
 sora.com
 spotify.com

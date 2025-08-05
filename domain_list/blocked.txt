@@ -26,6 +26,7 @@ edgeservices.bing.com
 elevenlabs.io
 elevenreader.io
 eu-poland.cloudmatchbeta.nvidiagrid.net
+eu-sweden.cloudmatchbeta.nvidiagrid.net
 games.geforce.com
 githubcopilot.com
 grok.com

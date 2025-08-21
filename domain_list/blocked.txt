@@ -27,6 +27,7 @@ elevenlabs.io
 elevenreader.io
 eu-poland.cloudmatchbeta.nvidiagrid.net
 eu-sweden.cloudmatchbeta.nvidiagrid.net
+freeformatter.com
 games.geforce.com
 githubcopilot.com
 grok.com

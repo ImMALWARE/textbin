@@ -3,6 +3,7 @@ anthropic.com
 api.github.com
 api.imgur.com
 appcatalyst.pa.googleapis.com
+bbb.org
 brawlstarsgame.com
 canva.com
 chatgpt.com

@@ -5,6 +5,7 @@ censorship.no
 censortracker.org
 chess.com
 cloudflare-ech.com
+cock.li
 conversations.im
 dolphin-anty.com
 emkei.cz
@@ -30,8 +31,8 @@ patreon.com
 picuki.com
 prnt.sc
 proton.me
-protonmail.com
 protonmail.ch
+protonmail.com
 protonvpn.com
 protonvpn.net
 psiphon.ca

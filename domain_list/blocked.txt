@@ -33,6 +33,7 @@ games.geforce.com
 githubcopilot.com
 grok.com
 httptoolkit.com
+jiosaavn.com
 notion.so
 o.pki.goog
 oaistatic.com

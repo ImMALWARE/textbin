@@ -56,3 +56,4 @@ x.ai
 xgpuweb.gssv-play-prod.xboxlive.com
 xgpuwebf2p.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
+zedge.net

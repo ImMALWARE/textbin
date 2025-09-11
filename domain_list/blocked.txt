@@ -24,6 +24,7 @@ developer.nvidia.com
 discord.me
 download.jetbrains.com
 dzcdn.net
+easydmarc.com
 edgeservices.bing.com
 elevenlabs.io
 elevenreader.io

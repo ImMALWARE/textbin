@@ -17,6 +17,7 @@ freedomhouse.org
 godaddy.com
 google.ua
 imagedelivery.net
+itch.io
 kemono.su
 linkedin.com
 linktr.ee
@@ -49,6 +50,10 @@ signal.org
 sndcdn.com
 soundcloud.com
 speedtest.net
+stun.l.google.com
+stun1.l.google.com
+stun2.l.google.com
+stun3.l.google.com
 te-st.org
 tmailor.com
 torproject.org
@@ -59,7 +64,3 @@ windscribe.com
 wixmp.com
 zelenka.guru
 znanija.com
-stun.l.google.com
-stun1.l.google.com
-stun2.l.google.com
-stun3.l.google.com

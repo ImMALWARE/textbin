@@ -57,6 +57,7 @@ stun3.l.google.com
 te-st.org
 tmailor.com
 torproject.org
+tuta.com
 ulta.team
 vector.im
 viber.com

@@ -21,6 +21,7 @@ deepl.com
 deezer.com
 dell.com
 developer.nvidia.com
+diabrowser.com
 discord.me
 download.jetbrains.com
 dzcdn.net

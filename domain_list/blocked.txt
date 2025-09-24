@@ -39,6 +39,7 @@ grok.com
 habr.com
 httptoolkit.com
 jiosaavn.com
+logo.com
 notion.so
 o.pki.goog
 oaistatic.com

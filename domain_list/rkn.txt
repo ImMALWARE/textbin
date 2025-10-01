@@ -55,6 +55,7 @@ stun1.l.google.com
 stun2.l.google.com
 stun3.l.google.com
 te-st.org
+thonny.org
 tmailor.com
 torproject.org
 tuta.com

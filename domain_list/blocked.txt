@@ -39,6 +39,7 @@ githubcopilot.com
 grok.com
 habr.com
 httptoolkit.com
+hume.ai
 jiosaavn.com
 logo.com
 notion.so

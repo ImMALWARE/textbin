@@ -36,6 +36,7 @@ eu.posthog.com
 freeformatter.com
 game.boombeachgame.com
 game.haydaygame.com
+game.mocogame.com
 game.squadbustersgame.com
 games.geforce.com
 githubcopilot.com

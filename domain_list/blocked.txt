@@ -34,6 +34,7 @@ eu-poland.cloudmatchbeta.nvidiagrid.net
 eu-sweden.cloudmatchbeta.nvidiagrid.net
 eu.posthog.com
 freeformatter.com
+game.haydaygame.com
 games.geforce.com
 githubcopilot.com
 grok.com

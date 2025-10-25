@@ -11,6 +11,7 @@ conversations.im
 dolphin-anty.com
 emkei.cz
 engage.cloudflareclient.com
+api.cloudflareclient.com
 ficbook.net
 files.catbox.moe
 forumlib.me
@@ -71,3 +72,10 @@ windscribe.com
 wixmp.com
 zelenka.guru
 znanija.com
+nordvpn.com
+mullvad.net
+xvpn.io
+vpnlove.me
+redshieldvpn.com
+privateinternetaccess.com
+ipvanish.com

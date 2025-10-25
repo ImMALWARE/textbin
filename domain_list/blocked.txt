@@ -54,6 +54,7 @@ openai.com
 plugins.jetbrains.com
 prod.cloudmatchbeta.nvidiagrid.net
 qwant.com
+robinfrontend-pa.googleapis.com
 slack.com
 sora.com
 spotify.com

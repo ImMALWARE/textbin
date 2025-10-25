@@ -26,6 +26,8 @@ lolz.guru
 matrix-client.matrix.org
 matrix.to
 medium.com
+mega.co.nz
+mega.nz
 musixmatch.com
 nnmclub.to
 notepad-plus-plus.org
@@ -49,6 +51,7 @@ rutracker.cc
 rutracker.org
 sb.scorecardresearch.com
 signal.org
+snapchat.com
 sndcdn.com
 soundcloud.com
 speedtest.net
@@ -68,5 +71,3 @@ windscribe.com
 wixmp.com
 zelenka.guru
 znanija.com
-mega.co.nz
-mega.nz

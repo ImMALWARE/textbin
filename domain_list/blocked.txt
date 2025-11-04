@@ -5,6 +5,7 @@ api.imgur.com
 appcatalyst.pa.googleapis.com
 bbb.org
 brawlstarsgame.com
+builds.parsec.app
 canva.com
 cdn.brandfetch.io
 chatgpt.com

@@ -14,7 +14,6 @@ engage.cloudflareclient.com
 api.cloudflareclient.com
 ficbook.net
 files.catbox.moe
-forumlib.me
 freedomhouse.org
 godaddy.com
 google.ua
@@ -47,7 +46,6 @@ quora.com
 rentry.co
 rentry.org
 riseup.net
-rustdesk.com
 rutracker.cc
 rutracker.org
 sb.scorecardresearch.com

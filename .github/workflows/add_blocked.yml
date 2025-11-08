@@ -40,3 +40,9 @@ jobs:
         with:
           commit_message: "Added domain ${{ github.event.inputs.domain }} to blocked.txt"
           file_pattern: domain_list/blocked.txt domain_list/blocked_v2rayng.txt
+      
+      - name: Purge jsDelivr Cache
+        uses: gacts/purge-jsdelivr-cache@v1
+        with:
+          url: |
+            https://cdn.jsdelivr.net/gh/ImMALWARE/textbin/domain_list/blocked.txt

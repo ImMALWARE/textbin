@@ -27,13 +27,11 @@ diabrowser.com
 discord.me
 download.jetbrains.com
 dzcdn.net
-easydmarc.com
 edgeservices.bing.com
 elevenlabs.io
 elevenreader.io
 eu-poland.cloudmatchbeta.nvidiagrid.net
 eu-sweden.cloudmatchbeta.nvidiagrid.net
-eu.posthog.com
 freeformatter.com
 game.boombeachgame.com
 game.haydaygame.com
@@ -44,8 +42,6 @@ githubcopilot.com
 grok.com
 habr.com
 httptoolkit.com
-hume.ai
-jiosaavn.com
 logo.com
 notion.so
 o.pki.goog
@@ -54,7 +50,6 @@ oaiusercontent.com
 openai.com
 plugins.jetbrains.com
 prod.cloudmatchbeta.nvidiagrid.net
-qwant.com
 robinfrontend-pa.googleapis.com
 slack.com
 sora.com
@@ -62,7 +57,6 @@ spotify.com
 supercell.com
 sydney.bing.com
 tidal.com
-trae.ai
 truthsocial.com
 usher.ttvnw.net
 weather.com
@@ -73,3 +67,4 @@ xgpuweb.gssv-play-prod.xboxlive.com
 xgpuwebf2p.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
 zedge.net
+lenovo.com

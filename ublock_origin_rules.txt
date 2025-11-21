@@ -35,3 +35,6 @@ chatgpt.com##body > div:nth-of-type(1) > div > div > div:nth-of-type(2) > main >
 chatgpt.com##body > div:nth-of-type(4) > div > div > div:nth-of-type(2)
 chatgpt.com##body > div:nth-of-type(1) > div > div > div:nth-of-type(2) > main > div > div > header > div:nth-of-type(1)
 claude.ai##body > div:nth-of-type(2) > div > div:nth-of-type(2) > main > div:nth-of-type(1) > div:nth-of-type(1)
+aistudio.google.com##ms-paid-api-key
+aistudio.google.com##ms-navbar-disclaimer
+aistudio.google.com##ms-paid-api-key-button

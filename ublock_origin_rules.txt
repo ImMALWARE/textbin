@@ -38,3 +38,4 @@ claude.ai##body > div:nth-of-type(2) > div > div:nth-of-type(2) > main > div:nth
 aistudio.google.com##ms-paid-api-key
 aistudio.google.com##ms-navbar-disclaimer
 aistudio.google.com##ms-paid-api-key-button
+gemini.google.com##[data-test-id="highly-regulated-disclaimer"]
